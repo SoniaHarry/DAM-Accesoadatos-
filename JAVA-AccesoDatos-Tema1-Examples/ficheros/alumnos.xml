@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Alumnos>
+    <Alumno edad="20" nombre="Raúl">
+        <direccion>C/Poprito 3</direccion>
+        <telefono>94123123123</telefono>
+    </Alumno>
+</Alumnos>
