@@ -1,0 +1,41 @@
+-Clase File Ejemplos
+https://dungeonofbits.com/ficheros-en-java.html
+https://dungeonofbits.com/category/java.html
+http://jmoral.es/blog/IO-java
+-Clase nio Ejemplos
+https://www.arold.es/java-nio2-ejemplos/
+http://bitsmi.com/2015/11/04/ocp7-10-e-s-de-archivos-java-parte-1-nio-2-new-input-output-2/
+
+
+
+
+MIOS TEMARIO:
+-Tema 1 Manejo de ficheros (Acceso de Datos)
+https://campusvirtual.ull.es/ocw/pluginfile.php/15444/mod_resource/content/1/Tema%205.%20Manejo%20de%20ficheros%20en%20Java.pdf
+file:///Users/soniadelgadosierra/Downloads/pdfcoffee.com_modulo-tema1-acceso-a-datos-dam-pdf-free.pdf
+
+-Acceso de datos
+https://acceso-a-datos.fp.edu.es/formas-de-acceso-a-un-fichero/
+https://acceso-a-datos.fp.edu.es/introduccion-al-manejo-de-ficheros/
+https://acceso-a-datos.fp.edu.es/introduccion-al-manejo-de-conectores/
+...
+-Acceso a datos Código 
+https://github.com/oscarcillo/AccesoDatos/tree/master/libs
+https://github.com/CodigOnline/acces-a-datos/tree/main/m06
+
+-Bases de Datos
+https://www.uoc.edu/pdf/masters/oficiales/img/913.pdf
+https://apuntes-daw.javiergutierrez.trade/bases-de-datos/ut3/recopila.html
+https://bbdd.codeandcoke.com/start (IMPORTANTE)
+
+
+(Modelo Entidad-Relación)
+https://www3.uji.es/~mmarques/f47/teoria/tema6.pdf
+
+- TODO
+https://github.com/juanro49/DAM/tree/master/DAM1
+https://github.com/juanro49/DAM/tree/master/DAM2
+
+NO ACCESO:
+-https://es.scribd.com/document/324444643/Tema-2-Modulo-Acceso-a-Datos-DAM
+https://es.scribd.com/document/611706067/Apuntes-Tema-4-Bases-de-Datos-Daw-dam
